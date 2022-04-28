@@ -21,7 +21,8 @@ Task Atlas - Keep on track and finish YOUR game     3.0.0
 
 
 
-
+All of these Got moved to a folder called Assets/Packages
+besides the auto generated Plugins folder
 
 
 
